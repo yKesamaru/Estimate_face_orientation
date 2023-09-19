@@ -1,0 +1,7 @@
+share
+lib
+lib64
+include
+bin
+*.cfg
+*.workspace
